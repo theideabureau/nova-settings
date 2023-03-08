@@ -9,7 +9,7 @@
   "require": {
     "php": ">=8.0",
     "laravel/nova": "^4.0",
-    "outl1ne/nova-translations-loader": "^5.0"
+    "outl1ne/nova-translations-loader": "^5.0.1"
   },
   "require-dev": {
     "orchestra/testbench": "^7.0",
